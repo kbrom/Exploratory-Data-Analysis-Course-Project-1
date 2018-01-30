@@ -20,3 +20,22 @@ Plot3 |  plot3.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-An
 Plot4 |  plot4.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot4.R "plot4.R")
 
  ## And the Separate PNG Files of Each R code! --4
+### Plot 1
+
+
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+
+
+### Plot 2
+
+![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+
+
+### Plot 3
+
+![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+
+
+### Plot 4
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
