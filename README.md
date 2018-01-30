@@ -23,5 +23,4 @@ Plot4 |  plot4.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-An
 ### Plot 1
 
 
-https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot1.pngnamed-chunk-2.png) 
-
+https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot1.png
