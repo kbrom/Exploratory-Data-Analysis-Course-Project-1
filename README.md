@@ -19,5 +19,4 @@ Plot2 |  plot2.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-An
 Plot3 |  plot3.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot3.R "plot3.R")
 Plot4 |  plot4.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot4.R "plot4.R")
 
-Cookbook | CodeBook.md |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md "CodeBook.md")
-README | README.md   |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md "README.md")
+
