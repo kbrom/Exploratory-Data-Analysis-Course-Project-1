@@ -10,7 +10,7 @@ Dataset: Electric power consumption [20Mb]
 This a  Link to the Github Repository.<br />
 https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/
 
- ## Separate R Code File (Four R code files) and Four PNG Files!  
+ ## Separate R Code File (Four R code files)--4   
 
 Tasks |R code File | Link to File
 --- | --- | ---
@@ -19,4 +19,4 @@ Plot2 |  plot2.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-An
 Plot3 |  plot3.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot3.R "plot3.R")
 Plot4 |  plot4.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot4.R "plot4.R")
 
-
+ ## And the Separate PNG Files of Each R code! --4
