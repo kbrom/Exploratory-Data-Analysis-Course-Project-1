@@ -22,6 +22,5 @@ Plot4 |  plot4.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-An
  ## And the Separate PNG Files of Each R code! --4
   Four plots are constructed and saved into PNG! 
 
-![plot of chunk unnamed-chunk-3](figure/plot1.png) 
-
+### plot1.png plot2.png plot3.png plot4.png
 
