@@ -14,6 +14,10 @@ https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/
 
 Tasks |R code File | Link to File
 --- | --- | ---
-Plot1 |  plot1.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot1.R "run_analysis.R")
+Plot1 |  plot1.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot1.R "plot1.R")
+Plot2 |  plot2.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot2.R "plot2.R")
+Plot3 |  plot3.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot3.R "plot3.R")
+Plot4 |  plot4.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot4.R "plot4.R")
+
 Cookbook | CodeBook.md |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md "CodeBook.md")
 README | README.md   |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md "README.md")
