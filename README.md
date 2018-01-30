@@ -20,7 +20,7 @@ Plot3 |  plot3.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-An
 Plot4 |  plot4.R |  [R Script Link](https://github.com/kbrom/Exploratory-Data-Analysis-Course-Project-1/blob/master/plot4.R "plot4.R")
 
  ## And the Separate PNG Files of Each R code! --4
-  Four plots are constructed. 
+  Four plots are constructed and saved into PNG! 
 
 ### Plot 1
 
