@@ -2,7 +2,7 @@ library("data.table")
 
 setwd("D:/Data Science/Coursera/EDA/week 1")
 
-#Reads in data from file then subsets data for specified dates
+#Reading data  from a file - household_power_consumption.txt:  then subsets  for specified dates
 powerDT <- data.table::fread(input = "household_power_consumption.txt"
                              , na.strings="?"
 )
